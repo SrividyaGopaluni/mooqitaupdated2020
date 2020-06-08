@@ -1,0 +1,8 @@
+node_modules/
+.idea
+secrets.txt
+tmp/
+
+/package-lock.json
+
+venv/
